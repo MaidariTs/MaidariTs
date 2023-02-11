@@ -7,10 +7,10 @@
 
 <h4>Contact me:</h4>
 
-<a href='https://t.me/maidaritsydenov>'<img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
+<a href='https://t.me/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
    height="32" alt="Пример"></a>
 
-![]()
+![https://t.me/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram_logo_icon_144811.png)
 ![https://www.linkedin.com/in/maidari-tsydenov-315b89264/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg)
 ![https://www.instagram.com/maidaritsydenov/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg)
 ![https://career.habr.com/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg)
