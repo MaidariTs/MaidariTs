@@ -7,7 +7,7 @@
 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀: 𝗣𝘆𝘁𝗵𝗼𝗻/𝗗𝗷𝗮𝗻𝗴𝗼/𝗗𝗷𝗮𝗻𝗴𝗼 𝗥𝗘𝗦𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸/𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟/𝗗𝗼𝗰𝗸𝗲𝗿/𝗗𝗼𝗰𝗸𝗲𝗿-𝗖𝗼𝗺𝗽𝗼𝘀𝗲/𝗬𝗮𝗻𝗱𝗲𝘅.𝗖𝗹𝗼𝘂𝗱/𝗛𝗧𝗠𝗟/𝗖𝗦𝗦/𝗟𝗶𝗻𝘂𝘅/𝗡𝗴𝗶𝗻𝘅/𝗨𝗻𝗶𝘁𝘁𝗲𝘀𝘁.
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
-![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg](https://t.me/maidaritsydenov)
+![https://t.me/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg)
 ![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg](https://www.linkedin.com/in/maidari-tsydenov-315b89264/)
 ![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg](https://www.instagram.com/maidaritsydenov/)
 ![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg](https://career.habr.com/maidaritsydenov)
