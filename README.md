@@ -1,5 +1,6 @@
 ## Hi there
-``` I'm [Maidari](https://t.me/maidaritsydenov), a 
+```
+I'm [Maidari](https://t.me/maidaritsydenov), a 
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python-backend+developer)](https://git.io/typing-svg)
 
