@@ -24,7 +24,7 @@
 My goal is to become a first-class programmer and an indispensable employee of a large IT company.
 ```
 
-* [Click me](https://t.me/maidaritsydenov) ask me about anything, i am happy to help;
+* [💬 Click me](https://t.me/maidaritsydenov) ask me about anything, i am happy to help;
 
 
 
@@ -32,8 +32,4 @@ My goal is to become a first-class programmer and an indispensable employee of a
 
 
 ## My stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/maidaritsydenov/github-readme-stats)
-
-
-
-maidaritsydenov
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maidaritsydenov&layout=compact)](https://github.com/maidaritsydenov/github-readme-stats)
