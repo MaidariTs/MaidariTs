@@ -10,7 +10,6 @@
 ```
 
 
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -35,3 +34,5 @@
 
 ### Random jokes:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![image](https://github.com/maidaritsydenov/MaidariTS/blob/master/Untitled3.gif)
