@@ -35,4 +35,4 @@
 ### Random jokes:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![image](https://github.com/maidaritsydenov/MaidariTs/blob/main/giphy.gif)
+<!-- ![image](https://github.com/maidaritsydenov/MaidariTs/blob/main/giphy.gif) -->
