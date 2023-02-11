@@ -2,14 +2,15 @@
 
 # Hi! 👋 I'm Maidari. Python-developer and junior analyst.
 
-<h3>Yandex.Practicum graduate</h3>
-<h3>Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest.</h3>
+<h4>Yandex.Practicum graduate</h4>
+<h4>Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest.</h4>
 
-<h3>Contact me:</h3>
+<h4>Contact me:</h4>
 
+<p><a href='https://t.me/maidaritsydenov>'<img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
+   height="32" alt="Пример"></a></p>
 
-
-![https://t.me/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg)
+![]()
 ![https://www.linkedin.com/in/maidari-tsydenov-315b89264/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg)
 ![https://www.instagram.com/maidaritsydenov/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg)
 ![https://career.habr.com/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg)
