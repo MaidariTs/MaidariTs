@@ -2,6 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python-backend+developer)](https://git.io/typing-svg)
 
+
+
+```
+𝗠𝘆 𝗴𝗼𝗮𝗹 𝗶𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗳𝗶𝗿𝘀𝘁-𝗰𝗹𝗮𝘀𝘀 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱
+𝗮𝗻 𝗶𝗻𝗱𝗶𝘀𝗽𝗲𝗻𝘀𝗮𝗯𝗹𝗲 𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗼𝗳 𝗮 𝗹𝗮𝗿𝗴𝗲 𝗜𝗧 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗮𝘀 𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗿.
+```
+
+* [💬 Click me](https://t.me/maidaritsydenov) ask me about anything, i am happy to help;
+
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -18,13 +28,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-```
-𝗠𝘆 𝗴𝗼𝗮𝗹 𝗶𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗳𝗶𝗿𝘀𝘁-𝗰𝗹𝗮𝘀𝘀 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱
-𝗮𝗻 𝗶𝗻𝗱𝗶𝘀𝗽𝗲𝗻𝘀𝗮𝗯𝗹𝗲 𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗼𝗳 𝗮 𝗹𝗮𝗿𝗴𝗲 𝗜𝗧 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗮𝘀 𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗿.
-```
-
-* [💬 Click me](https://t.me/maidaritsydenov) ask me about anything, i am happy to help;
 
 
 ## My stats:
