@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov)
 
 ### I'm [Maidari](https://t.me/maidaritsydenov), a python backend developer from Russia
 
