@@ -7,14 +7,14 @@
 
 <h4>Contact me:</h4>
 
-<p><a href='https://t.me/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
-   height="32" alt="Пример"></a></p>
-<p><a href='https://www.linkedin.com/in/maidari-tsydenov-315b89264/'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg" width="32" 
-   height="32" alt="Пример"></a></p>
-<p><a href='https://www.instagram.com/maidaritsydenov/'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg" width="32" 
-   height="32" alt="Пример"></a></p>
-<p><a href='https://career.habr.com/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg" width="32" 
-   height="32" alt="Пример"></a></p>
+<a href='https://t.me/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
+   height="32" alt="Пример"></a>
+<a href='https://www.linkedin.com/in/maidari-tsydenov-315b89264/'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg" width="32" 
+   height="32" alt="Пример"></a>
+<a href='https://www.instagram.com/maidaritsydenov/'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg" width="32" 
+   height="32" alt="Пример"></a>
+<a href='https://career.habr.com/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg" width="32" 
+   height="32" alt="Пример"></a>
 
 
 <!-- 
