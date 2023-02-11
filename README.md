@@ -8,9 +8,9 @@
 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 ![https://t.me/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg)
-![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg](https://www.linkedin.com/in/maidari-tsydenov-315b89264/)
-![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg](https://www.instagram.com/maidaritsydenov/)
-![https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg](https://career.habr.com/maidaritsydenov)
+![https://www.linkedin.com/in/maidari-tsydenov-315b89264/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/linkedin.svg)
+![https://www.instagram.com/maidaritsydenov/](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/instagram.svg)
+![https://career.habr.com/maidaritsydenov](https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/habr.svg)
 
 
 
