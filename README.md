@@ -1,13 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov) -->
 
-### I'm [Maidari](https://t.me/maidaritsydenov), a python backend developer from Russia
+#Hi! 👋 I'm Maidari. Python-developer and junior analyst.
 
-```
-𝗠𝘆 𝗴𝗼𝗮𝗹 𝗶𝘀 𝘁𝗼 𝗯𝗲𝗰𝗼𝗺𝗲 𝗮 𝗳𝗶𝗿𝘀𝘁-𝗰𝗹𝗮𝘀𝘀 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗮𝗻𝗱
-𝗮𝗻 𝗶𝗻𝗱𝗶𝘀𝗽𝗲𝗻𝘀𝗮𝗯𝗹𝗲 𝗲𝗺𝗽𝗹𝗼𝘆𝗲𝗲 𝗼𝗳 𝗮 𝗹𝗮𝗿𝗴𝗲 𝗜𝗧 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗮𝘀 𝗮 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗿.
-```
+𝗬𝗮𝗻𝗱𝗲𝘅.𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝘂𝗺 𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲
+
+𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀: 𝗣𝘆𝘁𝗵𝗼𝗻/𝗗𝗷𝗮𝗻𝗴𝗼/𝗗𝗷𝗮𝗻𝗴𝗼 𝗥𝗘𝗦𝗧 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸/𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟/𝗗𝗼𝗰𝗸𝗲𝗿/𝗗𝗼𝗰𝗸𝗲𝗿-𝗖𝗼𝗺𝗽𝗼𝘀𝗲/𝗬𝗮𝗻𝗱𝗲𝘅.𝗖𝗹𝗼𝘂𝗱/𝗛𝗧𝗠𝗟/𝗖𝗦𝗦/𝗟𝗶𝗻𝘂𝘅/𝗡𝗴𝗶𝗻𝘅/𝗨𝗻𝗶𝘁𝘁𝗲𝘀𝘁.
+
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲:
 
 
+
+<!-- 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -23,14 +26,14 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) -->
 
 
-### My stats:
+<!-- ### My stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maidaritsydenov&layout=compact)](https://github.com/maidaritsydenov/github-readme-stats)
 
 
 ### Random jokes:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
 <!-- ![image](https://github.com/maidaritsydenov/MaidariTs/blob/main/giphy.gif) -->
