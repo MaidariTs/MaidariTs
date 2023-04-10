@@ -2,10 +2,11 @@
 
 # Hi! 👋 I'm Maidari. Data Science | Python Development | Analytics
 
-[AI University](https://neural-university.ru/) student
-
 <h4>Yandex.Practicum graduate</h4>
 <h4>Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest.</h4>
+<h4>Tensorflow/Numpy/Pandas/SkLearn/Seaborn/SQL</h4>
+
+[AI University](https://neural-university.ru/) student
 
 
 <h4>Contact me:</h4>
