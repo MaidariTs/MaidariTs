@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov) -->
 
-# Hi! 👋 I'm Maidari. Data Science | Backend Development | Analytics
+# Hi! 👋 I'm Maidari. Data Science | Development | Analytics
 
 <h4>Yandex.Practicum graduate</h4>
 <h4>Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest.</h4>
