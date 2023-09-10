@@ -3,8 +3,7 @@
 # Hi! 👋 I'm Maidari.
 
 <h4>Yandex.Practicum graduate</h4>
-<h4>Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/HTML/CSS/Linux/Nginx/Unittest.</h4>
-<h4>Tensorflow/Numpy/Pandas/SkLearn/Seaborn/SQL</h4>
+<h4>Languages and Tools: Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest.</h4>
 
 [AI University](https://neural-university.ru/) student
 
