@@ -1,12 +1,12 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov) -->
 
-# Hi! 👋 I'm Maidari.
+# Hi! 👋 I'm Maidari
 
-<h4>Languages and Tools:</h4>
-<h4>Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/</h4>
-<h4>Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest</h4>
+<h5>Languages and Tools: </h5>
+<h5>Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/</h5>
+<h5>Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest</h5>
 
-<h4>Contact me:</h4>
+<h5>Contact me:</h5>
 
 <a href='https://t.me/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
    height="32" alt="Пример"></a>
@@ -23,7 +23,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
   <img alt="github-snake" src="github-snake.svg">
 </picture> -->
-![Snake animation](https://github.com/maidaritsydenov/maidaritsydenov/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/maidaritsydenov/maidaritsydenov/blob/output/github-contribution-grid-snake.svg) -->
 
 
 <!-- 
