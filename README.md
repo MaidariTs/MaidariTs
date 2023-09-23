@@ -5,16 +5,16 @@
 Languages and Tools:
 
 * Python/SQL
-* Tensorflow Keras/SkLearn/PyTorch
+* Tensorflow Keras/PyTorch
 * Numpy/Pandas/Matplotlib
 * Django/DRF/Nginx
 * PostgreSQL/Oracle/MongoDB
 * Docker/Docker-Compose
 * Linux
 
-1. Classical NLP solutions (NER, Text Classification, Text generation, Text summarization, Emotional analysis, Text augmentation and etc) 
-2. Research на основе архитектур RNN, CNN, Transformer, AutoEncoders, GAN и скиллов в Pytorch, TensorFlow, HuggingFace
-
+1. Classical NLP solutions (NER, text classification, text generation, text summarization, emotional analysis, text augmentation and etc.) 
+2. Research на основе архитектур RNN, CNN, Transformer, AutoEncoders, GAN и скиллов в PyTorch, Tensorflow Keras, HuggingFace
+3. LLM - Llama и производные, использование в роли чатботов, дообучение, квантизация, развертывание
 
 <h4>Contact me:</h4>
 
