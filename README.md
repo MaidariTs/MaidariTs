@@ -2,9 +2,10 @@
 
 # Hi! 👋 I'm Maidari
 
-<h5>Languages and Tools: </h5>
-<h5>Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/</h5>
-<h5>Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest</h5>
+Languages and Tools:
+Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/
+Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest
+
 
 <h5>Contact me:</h5>
 
