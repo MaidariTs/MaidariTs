@@ -1,13 +1,15 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov) -->
 
-# Hi! 👋 I'm Maidari
+## Hi! 👋 I'm Maidari
+### NLP developer
 
 Languages and Tools:
-Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/
-Python/Django/DRF/PostgreSQL/Oracle/MongoDB/Docker/Docker-Compose/Linux/Nginx/Unittest
+
+<h4>Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/</h4>
+<h4>Python/Django/PostgreSQL/Oracle/Docker/Linux/</h4>
 
 
-<h5>Contact me:</h5>
+<h4>Contact me:</h4>
 
 <a href='https://t.me/maidaritsydenov'><img src="https://github.com/maidaritsydenov/maidaritsydenov/blob/main/logo/telegram.svg" width="32" 
    height="32" alt="Пример"></a>
