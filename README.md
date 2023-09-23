@@ -1,12 +1,19 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi-there!)](https://t.me/maidaritsydenov) -->
 
-## Hi! 👋 I'm Maidari
-### NLP developer
+## Hi! 👋 I'm Maidari. NLP developer
 
 Languages and Tools:
 
-<h4>Tensorflow Keras/Pytorch/Numpy/Pandas/SkLearn/SQL/</h4>
-<h4>Python/Django/PostgreSQL/Oracle/Docker/Linux/</h4>
+* Python/SQL
+* Tensorflow Keras/SkLearn/PyTorch
+* Numpy/Pandas/Matplotlib
+* Django/DRF/Nginx
+* PostgreSQL/Oracle/MongoDB
+* Docker/Docker-Compose
+* Linux
+
+1. Classical NLP solutions (NER, Text Classification, Text generation, Text summarization, Emotional analysis, Text augmentation and etc) 
+2. Research на основе архитектур RNN, CNN, Transformer, AutoEncoders, GAN и скиллов в Pytorch, TensorFlow, HuggingFace
 
 
 <h4>Contact me:</h4>
